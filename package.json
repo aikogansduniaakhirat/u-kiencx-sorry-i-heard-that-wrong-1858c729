@@ -1,0 +1,11 @@
+{
+  "name": "u-kiencx-sorry-i-heard-that-wrong-1858c729",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A program that writes one line to /output/entry.txt: a smart speaker's apology after hearing a sigh instead of the sentence.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
